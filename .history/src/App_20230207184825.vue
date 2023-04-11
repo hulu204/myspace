@@ -1,6 +1,17 @@
 <template>
-  <nav-bar></nav-bar>
-  <router-view></router-view>
+  <!-- <nav-bar></nav-bar>
+  <router-view></router-view> -->
+  <div class="home">
+    <div class="container">
+      <div class="card">
+        <div class="card-body">
+          首页
+        </div>
+      </div>
+
+    </div>
+    
+  </div>
 </template>
 
 <script>
